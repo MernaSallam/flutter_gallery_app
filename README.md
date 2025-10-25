@@ -1,10 +1,37 @@
-# gallery_app
+# 📸 Simple Image Gallery App (Flutter)
 
-Galery app to view images.
+A simple Flutter mobile application that displays a predefined set of images in a clean gallery layout.  
+Users can view image thumbnails on the main screen and tap to open a full-size image on a new screen.
 
-## Getting Started
+## 🧩 Features
+- Grid-based image gallery
+- Full-screen image viewer
+- Smooth Hero transition animation
+- Simple, responsive UI using Flutter widgets
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- Flutter & Dart
+- `GridView`, `Hero`, `InteractiveViewer`, `Navigator`
+
+## 📂 Project Structure
+lib/
+ ├─ main.dart
+ ├─ screens/
+ │   ├─ gallery_screen.dart
+ │   └─ image_view_screen.dart
+ └─ assets/
+     └─ images/
+         ├─ img1.jpg
+         ├─ img2.jpg
+         ├─ img3.jpg
+         └─ img4.jpg
+
+
+## 🚀 Getting Started
+1. Clone this repo  
+   ```bash
+   git clone https://github.com/YourUsername/flutter_gallery_app.git
+
 
 A few resources to get you started if this is your first Flutter project:
 
