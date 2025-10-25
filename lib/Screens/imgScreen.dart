@@ -13,8 +13,8 @@ class ImageViewScreen extends StatelessWidget {
         title: const Text(
           "Image Viewer",
           style: TextStyle(
-            fontWeight: FontWeight.bold,
-            fontSize: 22,
+            fontWeight: FontWeight.w500,
+            fontSize: 18,
             color: Color(0xD33F51B5),
           ),
         ),
