@@ -41,6 +41,9 @@ lib/
 1. Clone this repo  
    ```bash
    git clone https://github.com/YourUsername/flutter_gallery_app.git
+## 📱 Screenshots
+<img width="379" height="673" alt="Screenshot 2025-10-26 003401" src="https://github.com/user-attachments/assets/fc0c4ccf-4d79-423e-9781-100a551a6391" />
+<img width="377" height="670" alt="Screenshot 2025-10-26 003547" src="https://github.com/user-attachments/assets/74840771-464a-4966-86c2-e2f9f9e5fae2" />
 
 
 A few resources to get you started if this is your first Flutter project:
