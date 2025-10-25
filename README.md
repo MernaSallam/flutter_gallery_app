@@ -16,14 +16,23 @@ Users can view image thumbnails on the main screen and tap to open a full-size i
 ## 📂 Project Structure
 lib/
  ├─ main.dart
+ 
  ├─ screens/
+ 
  │   ├─ gallery_screen.dart
+ 
  │   └─ image_view_screen.dart
+ 
  └─ assets/
+ 
      └─ images/
+     
          ├─ img1.jpg
+         
          ├─ img2.jpg
+         
          ├─ img3.jpg
+         
          └─ img4.jpg
 
 
