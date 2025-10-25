@@ -15,6 +15,7 @@ Users can view image thumbnails on the main screen and tap to open a full-size i
 
 ## 📂 Project Structure
 lib/
+
  ├─ main.dart
  
  ├─ screens/
